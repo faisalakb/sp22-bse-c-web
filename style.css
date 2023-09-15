@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid purple;
+    height: 100vh;
+}
+img{
+    border: 2px solid green;
+    width:100px;
+    height: 100px;
+}
+
+ul{
+    border: 2px solid red;
+    list-style: none;
+    display: inline;
+    margin-left: 400px;
+    margin-bottom: 500px;
+}
+li{
+    border: 2px solid orange;
+    display: inline;
+}
